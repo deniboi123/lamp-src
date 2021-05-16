@@ -1,0 +1,4 @@
+Lamp Logo: Font Awesome
+VS2019: Microsoft
+
+-- If you have a material that is copyrighted and would it taken down, please edit this file immediately with your copyrighted material link and name.

@@ -85,7 +85,7 @@ namespace lamp_src
 
         private void lampSourceCodeToolStripMenuItem_Click(object sender, EventArgs e)
         {
-            System.Diagnostics.Process.Start("http://google.com");
+            System.Diagnostics.Process.Start("https://github.com/deniboi123/lamp-src/");
         }
     }
 }
